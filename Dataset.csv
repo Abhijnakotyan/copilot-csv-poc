@@ -1,0 +1,21 @@
+RecordID,Name,Category,Region,Value,DateAdded
+SYN-0001,Falcon Analytics Unit,Analytics,North,4521,2026-01-12
+SYN-0002,Cobalt Data Node,Infrastructure,East,7830,2026-01-15
+SYN-0003,Lumen Insight Module,Analytics,West,2190,2026-01-18
+SYN-0004,Nimbus Storage Array,Infrastructure,South,9040,2026-01-20
+SYN-0005,Vertex Query Engine,Compute,North,3312,2026-01-22
+SYN-0006,Prism Reporting Suite,Analytics,East,5670,2026-01-25
+SYN-0007,Halo Security Layer,Security,West,8801,2026-01-27
+SYN-0008,Origin Sync Service,Infrastructure,South,1450,2026-01-29
+SYN-0009,Quartz Cache Layer,Compute,North,6023,2026-02-01
+SYN-0010,Meridian Access Gateway,Security,East,7215,2026-02-03
+SYN-0011,Aurora Metrics Hub,Analytics,West,3890,2026-02-05
+SYN-0012,Basalt Backup Vault,Infrastructure,South,4460,2026-02-07
+SYN-0013,Solace Compute Pool,Compute,North,9910,2026-02-09
+SYN-0014,Echo Audit Tracker,Security,East,2280,2026-02-11
+SYN-0015,Cinder Log Aggregator,Infrastructure,West,5540,2026-02-13
+SYN-0016,Delta Forecast Model,Analytics,South,6675,2026-02-15
+SYN-0017,Onyx Identity Broker,Security,North,3120,2026-02-17
+SYN-0018,Pulse Load Balancer,Compute,East,8890,2026-02-19
+SYN-0019,Tundra Data Lake,Infrastructure,West,4275,2026-02-21
+SYN-0020,Spectra Dashboard Core,Analytics,South,5980,2026-02-23
